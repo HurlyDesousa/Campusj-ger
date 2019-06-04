@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+.test {
+  color: black;
+}
+
+.maintable {
+  width: 100%;
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 5px;
+  text-align: left;
+}
+
+.addbutton {
+  background-color: yellow;
+  float: left;
+  border-radius: 5px;
+}
